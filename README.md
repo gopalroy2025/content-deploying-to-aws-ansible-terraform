@@ -14,7 +14,7 @@ Again, for following along using Terraform 0.13 refer to the `terraform_v13_comp
 Although the folder naming convention in this repository should make sense for the most part, it was primarily created to be referred through the lessons on the A Cloud Guru website.
 
 
-For queries and feedback please reach out to ACG support: https://help.acloud.guru
+For queries and feedback please reach out to ACG support:
 
 ## Warning
 1. Parts of this repository expect users to obtain a Route53 domain name, which is available with ACG Playground tier subscription.
